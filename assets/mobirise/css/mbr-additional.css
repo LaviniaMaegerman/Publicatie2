@@ -427,19 +427,19 @@ h6,
   font-size: 18px;
 }
 #menu-0 .navbar-toggler {
-  color: #000000;
+  color: #7c706b;
 }
 #menu-0 .link,
 #menu-0 .dropdown-item {
-  color: #000000;
+  color: #7c706b;
   font-family: 'Oxygen', sans-serif;
 }
 #menu-0 .link {
-  font-size: 1.15rem;
+  font-size: 1.2rem;
 }
 #menu-0 .dropdown-item,
 #menu-0 .nav-dropdown-sm .link {
-  font-size: 1.245rem;
+  font-size: 1.300rem;
 }
 #menu-0 .link:hover,
 #menu-0 .dropdown-item:hover,
@@ -464,7 +464,7 @@ h6,
   background: #000000;
 }
 #menu-0 .bg-color.transparent .link {
-  color: #000000;
+  color: #7c706b;
   transition: none;
 }
 #menu-0 .bg-color.transparent.opened .link {
@@ -486,7 +486,7 @@ h6,
 }
 #menu-0 .close-icon::before,
 #menu-0 .close-icon::after {
-  background-color: #000000;
+  background-color: #7c706b;
 }
 #header1-2 .mbr-section-lead {
   text-align: right;
@@ -609,11 +609,11 @@ h6,
   font-family: 'Oxygen', sans-serif;
 }
 #menu-i .link {
-  font-size: 1.15rem;
+  font-size: 1.2rem;
 }
 #menu-i .dropdown-item,
 #menu-i .nav-dropdown-sm .link {
-  font-size: 1.245rem;
+  font-size: 1.300rem;
 }
 #menu-i .link:hover,
 #menu-i .dropdown-item:hover,
@@ -688,19 +688,19 @@ h6,
   font-size: 18px;
 }
 #menu-1v .navbar-toggler {
-  color: #ffffff;
+  color: #7c706b;
 }
 #menu-1v .link,
 #menu-1v .dropdown-item {
-  color: #ffffff;
+  color: #7c706b;
   font-family: 'Oxygen', sans-serif;
 }
 #menu-1v .link {
-  font-size: 1.15rem;
+  font-size: 1.2rem;
 }
 #menu-1v .dropdown-item,
 #menu-1v .nav-dropdown-sm .link {
-  font-size: 1.245rem;
+  font-size: 1.300rem;
 }
 #menu-1v .link:hover,
 #menu-1v .dropdown-item:hover,
@@ -725,7 +725,7 @@ h6,
   background: #000000;
 }
 #menu-1v .bg-color.transparent .link {
-  color: #ffffff;
+  color: #7c706b;
   transition: none;
 }
 #menu-1v .bg-color.transparent.opened .link {
@@ -747,7 +747,7 @@ h6,
 }
 #menu-1v .close-icon::before,
 #menu-1v .close-icon::after {
-  background-color: #ffffff;
+  background-color: #7c706b;
 }
 #header1-1x .mbr-section-lead {
   text-align: right;
@@ -781,11 +781,11 @@ h6,
   font-family: 'Oxygen', sans-serif;
 }
 #menu-16 .link {
-  font-size: 1.15rem;
+  font-size: 1.2rem;
 }
 #menu-16 .dropdown-item,
 #menu-16 .nav-dropdown-sm .link {
-  font-size: 1.245rem;
+  font-size: 1.300rem;
 }
 #menu-16 .link:hover,
 #menu-16 .dropdown-item:hover,
