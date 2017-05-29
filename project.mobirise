@@ -34,7 +34,7 @@
       "settings": {
         "main": true,
         "title": "Lavinia Maegerman",
-        "meta_descr": "drawings, assignmenst",
+        "meta_descr": "Lavinia, Lavinia Maegerman, Graphic, Design, student, graphic design, about, about me, sketch, assignment, cat",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -208,7 +208,7 @@
     "assignments.html": {
       "settings": {
         "title": "Lavinia Maegerman",
-        "meta_descr": "drawings, assignmenst",
+        "meta_descr": "all, vinyl, assignments, werkweek2015, istanbul, istanbul ekspres, shoebox photographs, photography, Bild Hamburg",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -518,7 +518,7 @@
     "aboutme.html": {
       "settings": {
         "title": "Lavinia Maegerman",
-        "meta_descr": "drawings, assignmenst",
+        "meta_descr": "about me, me, biography, Lavinia, LUCA School of Arts, LUCA, artschool, drawing, horse",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -714,7 +714,7 @@
     "home.html": {
       "settings": {
         "title": "Lavinia Maegerman",
-        "meta_descr": "drawings, assignmenst",
+        "meta_descr": "Lavinia, Lavinia Maegerman, Graphic, Design, student, graphic design, about, about me, sketch, assignment, cat",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -884,7 +884,7 @@
     "sketches.html": {
       "settings": {
         "title": "Lavinia Maegerman",
-        "meta_descr": "drawings, assignmenst",
+        "meta_descr": "drawing, lifedrawing, modeldrawing, sketch",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -1326,7 +1326,9 @@
       ]
     },
     "follow.html": {
-      "settings": {},
+      "settings": {
+        "meta_descr": "follow, social media, social, facebook, instagram"
+      },
       "components": [
         {
           "_inherit": "social-buttons2",
@@ -1459,7 +1461,7 @@
     "contactme.html": {
       "settings": {
         "title": "Web Generator Title",
-        "meta_descr": "Web Generator Description"
+        "meta_descr": "Web Generator Description, contact, email, text, message, name"
       },
       "components": [
         {
@@ -1560,6 +1562,26 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "36px",
+              "color": "#7e9b9f"
+            },
+            "SMALL": {
+              "color": "#7e9b9f",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".btn": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            }
+          },
           "_anchor": "form1-28",
           "_params": {
             "labelsColor": "#232323",
@@ -1605,27 +1627,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ASK/TELL ME ANYTHING!</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-size": "36px",
-              "color": "#7e9b9f"
-            },
-            "SMALL": {
-              "color": "#7e9b9f",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            ".btn": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ASK/TELL ME ANYTHING!</a>"
         }
       ]
     }
